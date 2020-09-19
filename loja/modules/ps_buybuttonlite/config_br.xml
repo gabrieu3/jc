@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_buybuttonlite</name>
+    <displayName><![CDATA[Bot&atilde;o Comprar lite]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[Aumente sua taxa de convers&atilde;o e fortale&ccedil;a suas vendas, gere links e adicione ao seu conte&uacute;do, de forma que os visitantes possam finalizar o pedido]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Tem a certeza que quer desinstalar este módulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

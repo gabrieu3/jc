@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'u630514812_jeitodecozinha',
+    'database_user' => 'u630514812_jeitodecozinha',
+    'database_password' => 'Jeitodecozinha123',
+    'database_prefix' => '',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'KgeBgXrrrUTbuYLDEI1YNngdOu9751ZwVCxPHmUW90qvDFHMwAJeSaHd',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-08-31',
+    'locale' => 'pt-BR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'PjwYxz74bd12Q8j5ZB0KwWAsTBGm8cgfmm2uagvKcE2YohMAvycXqTWp',
+    'cookie_iv' => 'kVz15mgu',
+    'new_cookie_key' => 'def00000e38f4f3010288a1179bef70f428db04b29199f179bd0d5f72e4d030e926c79b0a1ff914322fd4b8814e905e3a8da6bca466cfe351514ef0e1fe2f46943eae9a4',
+  ),
+);
